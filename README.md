@@ -1,107 +1,94 @@
-Vinted Custom Wallet UI
+Vinted-V2.5.3
 
-📱 Mobile-friendly interface
+Custom Vinted-style mobile UI with editable prices, names, transactions and wallet information.
 
-✏️ Edit names and labels directly in the UI
+// Features
 
-💰 Customize prices and wallet amounts
+Mobile-friendly interface
 
-🧾 Edit transaction names, dates and statuses
+Edit names and labels directly in the UI
 
-🎨 Clean dark interface
+Customize prices and wallet amounts
 
-⚡ Lightweight HTML/CSS/JS
+Edit transaction names, dates and statuses
 
-📲 iOS & Android-friendly layout
+Clean dark interface
 
-🔧 No frameworks required
+Lightweight HTML/CSS/JS
 
-Features
-Customization
+iOS & Android-friendly layout
+
+No frameworks required
+
+// Customization
 
 Everything marked as editable can be changed directly from the interface.
 
 You can customize:
-
 Wallet title
-
 Pending funds
-
 Available balance
-
 Transaction names
-
 Transaction prices
-
 Transaction dates
-
 Transaction statuses
-
 Navigation labels
-
 Action buttons
-
 Month name
 
-Mobile UI
+// Mobile UI
 
-The interface is designed around a mobile viewport and includes:
+The interface is designed around a mobile viewport.
 
-iOS-style safe-area support
-
+iOS safe-area support
 Mobile navigation
-
 Touch-friendly controls
-
 Responsive layout
-
 Dark theme
-
 Smooth edit modal
 
-Editing System
+// Editing System
 
 Click any editable element to open the edit menu.
 
-The changes are applied instantly to the interface without requiring a page reload.
+1. Click an editable value
+2. Enter your custom value
+3. Click "Zapisz"
+4. The value updates instantly
 
-Installation
 
-Clone the repository:
+No page reload is required.
 
+// Installation
+Clone the repository
 git clone https://github.com/SilosDev/Vinted-V2/html/download24s.git
 
-
-Open the project:
-
+Open the project
 index.html
 
 
 No build tools, dependencies or server are required.
 
-Usage
+// Usage
+1. Open index.html
+2. Click any editable text or value
+3. Enter your custom value
+4. Click "Zapisz"
+5. The value will be updated in the interface
 
-Open index.html.
+// Project Structure
+Vinted-V2.5.3/
+│
+├── index.html
+└── README.md
 
-Click any editable text or value.
-
-Enter your custom value.
-
-Click Zapisz.
-
-The value will be updated in the interface.
-
-Tech Stack
-
+// Tech Stack
 HTML5
-
 CSS3
-
 Vanilla JavaScript
-
 Google Fonts — Inter
 
-Resources
+// Resources
 
 HTML Documentation
 
@@ -109,12 +96,10 @@ CSS Documentation
 
 JavaScript Documentation
 
-Credits
-
+// Credits
 UI concept inspired by modern marketplace/wallet applications.
-
 Built with HTML, CSS and vanilla JavaScript.
 
-Disclaimer
+// Disclaimer
 
 This is an independent custom UI project and is not affiliated with, endorsed by, or sponsored by Vinted.
