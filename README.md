@@ -1,10 +1,10 @@
-Vinted-V2.5.3
+# Vinted-V2.5.3
 
-Custom Vinted-style mobile UI with editable prices, names, transactions and wallet information.
+# Custom Vinted-style mobile UI with editable prices, names, transactions and wallet information.
 
 // Features
 
-Mobile-friendly interface
+# Mobile-friendly interface
 
 Edit names and labels directly in the UI
 
@@ -14,11 +14,11 @@ Edit transaction names, dates and statuses
 
 Clean dark interface
 
-Lightweight HTML/CSS/JS
+# Lightweight HTML/CSS/JS
 
 iOS & Android-friendly layout
 
-No frameworks required
+# No frameworks required
 
 // Customization
 
