@@ -1,0 +1,19 @@
+{
+  "name": "Vinted V2.5.3",
+  "short_name": "Vinted",
+  "description": "Vinted Made By SilosDev",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#050607",
+  "theme_color": "#181c1d",
+  "icons": [
+    {
+      "src": "./apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
