@@ -7,6 +7,6 @@ Editing happens through a modal that comes up and you just type and hit save. Th
 The structure has the html file and a readme. Tech is just the basic web stuff with inter font. It mentions no connection to vinted which makes sense since it is custom. Some people might find the dark theme easy on the eyes. That part stands out a bit.
 
 The editing system seems simple but maybe it gets a bit messy with many changes.
-## Screenshot
+## Example SCR
 
 ![Screenshot](screenshot.png)
